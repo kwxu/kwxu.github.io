@@ -31,7 +31,9 @@ I am looking for AI research and engineering job opportunities after graduation.
 In my Ph.D. training, I am primarily focused on the AI research for automatic interpretation of clinical relevant 
 incidental image data in routine lung cancer screening low-dose CT. This line of research leads to three conference 
 and two journal publications. I have engineering experience for AI algorithm development, parallel 
-computing, large-scale software development in both industrial and academic settings. Please feel free to reach out if 
-there is a potential good fit! Here is my 
+computing, large-scale software development in both industrial and academic settings. 
+
+Please feel free to contact me (kaiwen.xu\[at\]vanderbilt\[dot\]edu) if 
+there is a potential good fit! Here are my 
 [CV](http://kwxu.github.io/files/paper1.pdf) and 
 [LinkedIn page](https://www.linkedin.com/in/kaiwen-algo/).
