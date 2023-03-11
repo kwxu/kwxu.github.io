@@ -23,7 +23,7 @@ and [Fabien Maldonado, MD, MSc](https://medicine.vumc.org/person/fabien-maldonad
 Previously, I received my M.Sc. in Computational Mathematics from 
 [Academy of Mathematics and Systems Science](http://english.amss.cas.cn/)
 of [Chinese Academy of Sciences](https://english.cas.cn/). Before joining Vanderbilt, I 
-worked as Algorithm Engineer at [KLA Corporation](https://www.kla.com/).
+worked as algorithm engineer at [KLA Corporation](https://www.kla.com/).
 
 Open to work!
 ======
