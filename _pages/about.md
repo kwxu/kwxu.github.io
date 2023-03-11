@@ -11,7 +11,7 @@ redirect_from`:
 I am a fourth-year Ph.D. student in Computer Science at [Vanderbilt University](https://www.vanderbilt.edu/) and 
 affiliated with 
 [Vanderbilt Institute for Surgery and Engineering](https://www.vanderbilt.edu/vise/).
-My research interest lies in artificial intelligence and computer vision applications in healthcare industry, 
+My research interest lies in artificial intelligence and computer vision applications in healthcare domain, 
 especially in the field of lung cancer screening. 
 I am advised by [Bennett Landman, PhD](https://github.com/academicpages/academicpages.github.io) and work closely with
 [VUMC](https://www.vumc.org/main/home) clinical experts 
