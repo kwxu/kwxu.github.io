@@ -36,5 +36,5 @@ computing, large-scale software development in both industrial and academic sett
 
 Please feel free to contact me (kaiwen.xu\[at\]vanderbilt\[dot\]edu) if 
 there is a potential good fit! Here are my 
-[CV](http://kwxu.github.io/files/paper1.pdf) and 
+[CV](http://kwxu.github.io/files/kaiwen_xu.pdf) and 
 [LinkedIn page](https://www.linkedin.com/in/kaiwen-algo/).
