@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Xu, Kaiwen"
   avatar           : "Kaiwen-Xu-472x650.jpg"
-  bio              : "PhD Student in Medical Image Analysis"
+  bio              : "PhD Student in Medical Image Analysis, Vanderbilt University"
   location         : "Nashville, TN / San Jose, CA"
-  employer         : "Computer Science Department, Vanderbilt University"
+  employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=kaiwen+xu"
   googlescholar    : "https://scholar.google.com/citations?user=xpXEJ20AAAAJ&hl=en"
   email            : "kaiwen.xu[at]vanderbilt[dot].edu"
