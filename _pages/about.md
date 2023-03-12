@@ -17,8 +17,8 @@ I am advised by [Bennett Landman, PhD](https://scholar.google.com/citations?user
 and work closely with
 [VUMC](https://www.vumc.org/main/home) clinical experts 
 [Kim Sandler, MD](https://www.vumc.org/radiology/person/kim-l-sandler-md), 
-[Fabien Maldonado, MD, MSc](https://medicine.vumc.org/person/fabien-maldonado-md-msc), 
-and [J. Jeffrey Carr, MD, MSc](https://www.vumc.org/vtracc/person/j-jeffrey-carr-md).
+[J. Jeffrey Carr, MD, MSc](https://www.vumc.org/vtracc/person/j-jeffrey-carr-md), 
+and [Fabien Maldonado, MD, MSc](https://medicine.vumc.org/person/fabien-maldonado-md-msc).
 
 Previously, I received my M.Sc. in Computational Mathematics from 
 [Academy of Mathematics and Systems Science](http://english.amss.cas.cn/)
