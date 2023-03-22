@@ -20,7 +20,7 @@ and work closely with
 [Fabien Maldonado, MD, MSc](https://medicine.vumc.org/person/fabien-maldonado-md-msc), 
 and [J. Jeffrey Carr, MD, MSc](https://www.vumc.org/vtracc/person/j-jeffrey-carr-md).
 
-Previously, I received my M.Sc. in Computational Mathematics from 
+Previously, I received my M.Sc. in Computational Mathematics (Computational Fluid Dynamics) from 
 [Academy of Mathematics and Systems Science](http://english.amss.cas.cn/)
 of [Chinese Academy of Sciences](https://english.cas.cn/). Before joining Vanderbilt, I 
 worked as algorithm engineer (3D modeling) at [KLA Corporation](https://www.kla.com/).
