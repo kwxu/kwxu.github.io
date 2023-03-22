@@ -23,7 +23,7 @@ and [J. Jeffrey Carr, MD, MSc](https://www.vumc.org/vtracc/person/j-jeffrey-carr
 Previously, I received my M.Sc. in Computational Mathematics from 
 [Academy of Mathematics and Systems Science](http://english.amss.cas.cn/)
 of [Chinese Academy of Sciences](https://english.cas.cn/). Before joining Vanderbilt, I 
-worked as algorithm engineer at [KLA Corporation](https://www.kla.com/).
+worked as algorithm engineer (3D modeling) at [KLA Corporation](https://www.kla.com/).
 
 Open to work!
 ======
@@ -31,10 +31,10 @@ Open to work!
 I am looking for AI research and engineering job opportunities after graduation. 
 In my Ph.D. training, I am primarily focused on the AI research for automatic interpretation of clinical relevant 
 incidental image data in routine lung cancer screening low-dose CT. This line of research leads to three conference 
-and two journal publications. I am experienced with AI algorithm development, parallel 
+and two journal publications. I am experienced with AI algorithm development, cloud 
 computing, large-scale software development in both industrial and academic settings. 
 
 Please feel free to contact me (kaiwen.xu\[at\]vanderbilt\[dot\]edu) if 
 there is a potential good fit! Here are my 
-[CV](http://kwxu.github.io/files/kaiwen_xu.pdf) and 
-[LinkedIn page](https://www.linkedin.com/in/kaiwen-algo/).
+[CV](http://kwxu.github.io/files/kaiwen_xu.pdf),
+[LinkedIn page](https://www.linkedin.com/in/kaiwen-algo/), and [Google scholar profile]{https://scholar.google.com/citations?user=xpXEJ20AAAAJ&hl=en}.
